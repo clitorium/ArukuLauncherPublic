@@ -1,1 +1,3 @@
 # ArukuLauncherPublic
+
+discord.gg/aruku
